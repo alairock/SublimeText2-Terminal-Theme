@@ -1,4 +1,4 @@
-Monokai.terminal
+Sublime.terminal
 ----------------
 
 Sublime Text 2's default theme for OS X Terminal
@@ -6,22 +6,14 @@ Sublime Text 2's default theme for OS X Terminal
 
 ## Installation
 
-Clone the Monokai.terminal repository to your Downloads folder.
-
-```
-git clone git://github.com/stephenway/Monokai.terminal.git ~/Downloads
-```
-
-Double click the Monokai.terminal file to install.
+Download File and extract. Once you have the contents, double click on the .terminal file.
 
 ## Contact
 
-Stephen Way
+alairock
 
-- http://github.com/stephenway
-- http://twitter.com/stephencway
-- http://alpha.app.net/stephenway
-- stephencway@me.com
+- http://github.com/alairock
+- http://twitter.com/alairock
 
 ## License
 
